@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1375
+
+QFixToggle allows you to toggle the visibility of the |quickfix| window
+easilly.  The goal is to provide easy access to the error list when
+programming or searching for text.
+
+Thanks to Hari for the help on the auto-commands.
